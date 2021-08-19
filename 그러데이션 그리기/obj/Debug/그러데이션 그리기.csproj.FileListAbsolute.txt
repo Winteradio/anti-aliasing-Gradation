@@ -1,0 +1,10 @@
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션 그리기.csproj.AssemblyReference.cache
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션_그리기.Form1.resources
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션_그리기.Properties.Resources.resources
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션 그리기.csproj.GenerateResource.cache
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션 그리기.csproj.CoreCompileInputs.cache
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\bin\Debug\그러데이션 그리기.exe.config
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\bin\Debug\그러데이션 그리기.exe
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\bin\Debug\그러데이션 그리기.pdb
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션 그리기.exe
+C:\Users\겨울엔군고구마한잔\source\repos\그러데이션 그리기\그러데이션 그리기\obj\Debug\그러데이션 그리기.pdb
